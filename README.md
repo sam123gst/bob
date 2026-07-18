@@ -1,7 +1,5 @@
 # AI Governance Track
 
-<img width="1519" alt="banner-ai-governance" src="assets/banner-ai-governance.png">
-
 ## 🤖 Bob — Your AI Coding Assistant for Lab Tasks
 
 <img src="https://bob.ibm.com/assets/BobAnimationPlaceholder-BWZj7W25.svg" alt="IBM Bob" width="180"/>
