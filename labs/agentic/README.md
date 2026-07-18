@@ -6,10 +6,6 @@ In this lab, you will learn how to govern and control AI Agents, including putti
 
 Imani is an AI Engineer working for **ABC Car Dealership**. She is building an Agentic AI application to help customers answer questions on their catalog of vehicles. However, she's afraid of many potential risks related to Generative AI, namely _generation of harmful contents, hallucinations, agent sprawl, prompt injection_, among other risks. She's aware that malicious users have successfully attacked AI systems to trick them into promotions or sales deals against the company policy.
 
-The **ABC Car Dealership** catalog of vehicles can be found below:
-
-<img src="https://github.ibm.com/user-attachments/assets/0bed25c9-384d-4eb5-ba96-6976e410e6b5" alt="drawing" width="500"/>
-
 ## 🎯 Objective
 
 In this lab, you will help Imani implement **Agentic AI Controls and Governance** capabilities to address:
