@@ -1,6 +1,6 @@
 # AI Governance Track
 
-<img width="1519" alt="banner-ai-governance" src="https://github.ibm.com/skol/ai-governance-client-bootcamp/assets/12043/a5313e89-9a15-482c-a2e1-1a4b5b403488">
+<img width="1519" alt="banner-ai-governance" src="assets/banner-ai-governance.png">
 
 ## 🤖 Bob — Your AI Coding Assistant for Lab Tasks
 
