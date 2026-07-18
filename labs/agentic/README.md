@@ -1,7 +1,5 @@
  # 🚨 Control and Govern AI Agents with watsonx Orchestrate
 
-![banner-governance](https://github.ibm.com/user-attachments/assets/1e150fca-d878-428f-95ef-506441417ec5)
-
 In this lab, you will learn how to govern and control AI Agents, including putting guardrails, monitoring, debugging, and evaluation AI agents to mitigate a number of risks including hallucinations, data poisoning, tool invocation errors, PII leakage, among others.
 
 ## 🎬 The Scenario
