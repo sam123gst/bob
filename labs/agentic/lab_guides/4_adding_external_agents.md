@@ -293,6 +293,43 @@ Now let's test the complete system through the chat interface.
 
 ---
 
+## 🤖 Optional — Use Bob to Build and Chat with Your Agents Directly
+
+> [!NOTE]
+> This section is **optional**. You can complete this entire lab through the watsonx Orchestrate UI as described above. If you have access to **IBM Bob**, you can use it to create agents and chat with them directly from your IDE — no UI clicking required.
+
+[IBM Bob](https://ibm.biz/ibm-bob) is an AI coding and task assistant that can interact with the watsonx Orchestrate ADK directly, allowing you to build and test agents through natural language.
+
+**Step 1**
+
+![Bob step 1](assets/bob-importing-agents-1.png)
+
+**Step 2**
+
+![Bob step 2](assets/bob-importing-agents-2.png)
+
+**Step 3**
+
+![Bob step 3](assets/bob-importing-agents-3.png)
+
+**Step 4**
+
+![Bob step 4](assets/bob-importing-agents-4.png)
+
+**Step 5**
+
+![Bob step 5](assets/bob-importing-agents-5.png)
+
+**Step 6**
+
+![Bob step 6](assets/bob-importing-agents-6.png)
+
+**Step 7**
+
+![Bob step 7](assets/bob-importing-agents-7.png)
+
+---
+
 <div align="center">
 
 **← [Previous: 🤢 Data Poisoning](/labs/agentic/data-poisoning/README.md) &nbsp;&nbsp; | &nbsp;&nbsp; [Next: 👁️‍🗨 PII Leakage](/labs/agentic/controls/README.md) →**
