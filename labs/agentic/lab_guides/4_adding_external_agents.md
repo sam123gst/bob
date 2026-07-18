@@ -31,8 +31,11 @@ Your instructor has already deployed a LangGraph agent for you to import. Now we
    
    **Name**:
    ```
-   Web Search Agent
+   Web Search Agent - [YOUR NAME]
    ```
+
+   > [!WARNING]
+   > Replace `[YOUR NAME]` with your own name as a suffix (e.g. `Web Search Agent - Jane`). This is required to avoid duplicating agents built by other workshop participants in the same environment.
    
    **Description**:
    ```
@@ -71,9 +74,12 @@ Your instructor has already deployed a LangGraph agent for you to import. Now we
    Scroll down to the **Define new agent** section and fill in the details:  
 
    **Name**:
-   ``` 
-   Web Search Agent
    ```
+   Web Search Agent - [YOUR NAME]
+   ```
+
+   > [!WARNING]
+   > Replace `[YOUR NAME]` with your own name as a suffix (e.g. `Web Search Agent - Jane`). This is required to avoid duplicating agents built by other workshop participants in the same environment.
 
    **Description**:
    ```
