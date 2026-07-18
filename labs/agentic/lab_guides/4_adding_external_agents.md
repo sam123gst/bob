@@ -66,9 +66,6 @@ Your instructor has already deployed a LangGraph agent for you to import. Now we
 
    **API Key Value**: (Provided by your instructor)
 
-> [!Note]
-> Instructors must complete the instructor guide to provide participants with the Agent Endpoint URL and the API Key, which is required for the this lab.
-
    ![A2A configuration](../agentic-monitoring/assets/google_search_a2a_config.png)
 
    Scroll down to the **Define new agent** section and fill in the details:  
