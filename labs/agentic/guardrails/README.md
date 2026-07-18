@@ -81,12 +81,6 @@ Let's get started!
 
 
 
-#### Pre-requisite: Watsonx Orchestrate ADK Setup
-
-If you need to set up the ADK (Agent Developer Kit) on your machine, [please be sure to follow these instructions.](https://github.ibm.com/skol/agentic-ai-client-bootcamp/blob/main/environment-setup/retail.md#watsonx-orchestrate-adk)
-
-Once the ADK CLI is installed, proceed to step one.
-
 #### 1. Create Environment via ADK
 
 Open your terminal and create a new environment in your watsonx Orchestrate instance. You can create the environment name of your choice , and you can read instructions for finding your orchestrate instance URL below the example code.
